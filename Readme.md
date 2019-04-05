@@ -3,7 +3,7 @@
 
 * [DragDropHelper.cs](./CS/DragDropExample/DragDropHelper.cs) (VB: [DragDropHelper.vb](./VB/DragDropExample/DragDropHelper.vb))
 * [Form1.cs](./CS/DragDropExample/Form1.cs) (VB: [Form1.vb](./VB/DragDropExample/Form1.vb))
-* [Program.cs](./CS/DragDropExample/Program.cs) (VB: [Program.cs](./VB/DragDropExample/Program.cs))
+* [Program.cs](./CS/DragDropExample/Program.cs) (VB: [Program.vb](./VB/DragDropExample/Program.vb))
 <!-- default file list end -->
 # Drag&drop items from one standalone GalleryControl to another one (extended)
 

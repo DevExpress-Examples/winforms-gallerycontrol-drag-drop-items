@@ -9,7 +9,7 @@
 
 This example demonstrates how to implement a custom helper class to highlight the drop position when the user drags a gallery item from one Gallery Control to another.
 
-![WinForms Gallery Control - Drag and drop gallery items](https://raw.githubusercontent.com/DevExpress-Examples/dragdrop-items-from-one-standalone-gallerycontrol-to-another-one-extended-e3857/13.1.4%2B/media/winforms-gallerycontrol-drag-drop.png)
+![WinForms Gallery Control - Drag and drop gallery items](media/winforms-gallerycontrol-drag-drop.png)
 
 
 ## Files to Review
@@ -23,3 +23,4 @@ This example demonstrates how to implement a custom helper class to highlight th
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+

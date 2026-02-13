@@ -17,7 +17,7 @@ This example demonstrates how to implement a custom helper class to highlight th
 * [DragDropHelper.cs](./CS/DragDropExample/DragDropHelper.cs) (VB: [DragDropHelper.vb](./VB/DragDropExample/DragDropHelper.vb))
 * [Form1.cs](./CS/DragDropExample/Form1.cs) (VB: [Form1.vb](./VB/DragDropExample/Form1.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-gallerycontrol-drag-drop-items&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-gallerycontrol-drag-drop-items&~~~was_helpful=no)
 
